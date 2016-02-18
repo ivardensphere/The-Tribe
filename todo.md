@@ -7,7 +7,7 @@
 - [ ] Copy over MT scripts from old pack.
 
 ## Bugs
-- [ ] Biomes O Plenty Potion ID Conflicts.
+- [x] Biomes O Plenty Potion ID Conflicts.
 - [ ] Ars Magica2 Potion ID Conflict.
 
 ## Fine Tuning
