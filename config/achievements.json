@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"id": "mineDiamond",
+		"name": "Shine On You Crazy Diamond",
+		"desc": "Mine a stack of diamonds.",
+		"stat": "stat.mineBlock.27",
+		"count": 64,
+		"item": "minecraft:diamond_ore",
+		"xPos": 0,
+		"yPos": -1
+	}
+]
