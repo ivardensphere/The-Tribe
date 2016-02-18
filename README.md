@@ -3,9 +3,9 @@ Mod Count: 126 Server Side
 Mem Needed: 4 -6 Gigs
 Forge Version: .1614
 
-Magic Mods:
+Magic Mods:  
 1. Ars Magica2  
-2. Blood Magic  
+2. Blood Magic
    1. Blood Utils  
    2. Sanguimancy  
    3. Sanguine Utilities  
