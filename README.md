@@ -1,7 +1,7 @@
 # The-Tribe
-Mod Count: 126 Server Side
-Mem Needed: 4 -6 Gigs
-Forge Version: .1614
+* Mod Count: 126 Server Side
+* Mem Needed: 4 -6 Gigs
+* Forge Version: .1614
 
 Magic Mods:
 
