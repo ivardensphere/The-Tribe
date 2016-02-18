@@ -8,5 +8,16 @@
 		"item": "minecraft:diamond_ore",
 		"xPos": 0,
 		"yPos": -1
-	}
+	},
+	
+	{
+		"id": "killWere",
+		"name": "Hungry Like The Wolf",
+		"desc": "Kill a Werewolf",
+		"stat": "stat.killEntity.MoCreatures.Werewolf",
+		"count": 1,
+        "item": "MoCreatures:fur",
+		"xPos": -2,
+		"yPos": -1
+	}	
 ]
