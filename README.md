@@ -4,8 +4,8 @@ Mem Needed: 4 -6 Gigs
 Forge Version: .1614
 
 Magic Mods:
-1. Ars Magica
 
+1. Ars Magica
 2. Blood Magic
   * Blood Utils
   * Sanguimancy 
