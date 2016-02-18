@@ -20,7 +20,7 @@ Decor Mods:
 1] Carpenter's Blocks
 2] Chisel
    a] ChiselTones
-   b] Metallurgy Chisel
+   b] Metallurgy Chisel 
 3] DecoCraft
 4] LightsPlus
 5] MalisisDoors
