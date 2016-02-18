@@ -122,14 +122,14 @@
 
 
 20
-	- Name: potion.wither
-	- Color: 3484199
+	- Name: potion.paralysis
+	- Color: 16767262
 	- Is Instant? false
 
 
 21
-	- Name: potion.healthBoost
-	- Color: 16284963
+	- Name: potion.possession
+	- Color: 1280
 	- Is Instant? false
 
 
