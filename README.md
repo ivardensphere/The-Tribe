@@ -124,9 +124,6 @@ Misc Mods:
 Q: How can we travel?
 A: See Travel Mods above.
 
-Q: Why was Mo Creatures removed?
-A: Incompatibility with Hardcore Ender Expansion and Custom Mob Spawner.
-
 Q: what has changed with hunger?
 A: Hunger can/will now kill you. You will also get negative effects going hungry.
 
