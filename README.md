@@ -4,17 +4,17 @@ Mem Needed: 4 -6 Gigs
 Forge Version: .1614
 
 Magic Mods:
-1. Ars Magica2
-2. Blood Magic
-   1. Blood Utils
-   2. Sanguimancy
-   3. Sanguine Utilities
-3] Botania
-4] Thaumcraft
-   a] Automagy
-   b] Thaumic Energistics
-   c] Thaumic Tinkerer
-5] Witchery
+1. Ars Magica2  
+2. Blood Magic  
+   1. Blood Utils  
+   2. Sanguimancy  
+   3. Sanguine Utilities  
+3] Botania  
+4] Thaumcraft  
+   a] Automagy  
+   b] Thaumic Energistics  
+   c] Thaumic Tinkerer  
+5] Witchery  
 
 Decor Mods:
 1] Carpenter's Blocks
