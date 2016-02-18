@@ -1,15 +1,16 @@
+
+
 # To do
-- [ ] Post to Hacker News
-- [ ] Share HN post on Twitter
+- [ ] Add Custom Achievements.
+- [ ] Redo the loot table.
+- [ ] Custom Mobs using Mob Properties.
+- [ ] Copy over MT scripts from old pack.
 
+## Bugs
+- [ ] Biomes O Plenty Potion ID Conflicts.
+- [ ] Ars Magica2 Potion ID Conflict.
 
-## Next
-- [ ] Raise $1MM
-- [ ] Retire
-
-
-## New: Nested TODOs
-- [ ] Top level task
-    - [ ] Subtask 1
-    - [ ] Subtask 2
-    - [ ] Subtask 3
+## Fine Tuning
+- [ ] Adjust spawn weights for mobs in JAS.
+- [ ] Fine tune the biome weights in Biomes O Plenty.
+- [ ] Fine tune the special mobs spawning.
