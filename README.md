@@ -3,17 +3,18 @@ Mod Count: 126 Server Side
 Mem Needed: 4 -6 Gigs
 Forge Version: .1614
 
-Magic Mods:  
-1. Ars Magica2
+Magic Mods:
+1. Ars Magica
+
 2. Blood Magic
- * Blood Utils
- * Sanguimancy 
- * Sanguine Utilities
+  * Blood Utils
+  * Sanguimancy 
+  * Sanguine Utilities
 3. Botania
 4. Thaumcraft
-  * Automagy
-  * Thaumic Energistics
-  * Thaumic Tinkerer
+   * Automagy
+   * Thaumic Energistics
+   * Thaumic Tinkerer
 5. Witchery
 
 Decor Mods:
