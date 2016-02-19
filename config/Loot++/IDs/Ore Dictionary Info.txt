@@ -11488,6 +11488,9 @@ netherrackRod
 TConstruct:toolRod - 7
 
 
+none
+
+
 nuggetAdamantine
 Metallurgy:fantasy.nugget - 13
 
