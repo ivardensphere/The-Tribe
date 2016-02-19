@@ -11,13 +11,69 @@
 	},
 	
 	{
-		"id": "killWere",
-		"name": "Hungry Like The Wolf",
-		"desc": "Kill a Werewolf",
-		"stat": "stat.killEntity.MoCreatures.Werewolf",
-		"count": 1,
-        "item": "MoCreatures:fur",
-		"xPos": -2,
-		"yPos": -1
+		"id": "welcometo",
+		"name": "Welcome Home",
+		"desc": "Welcome to the Tribe!",
+		"stat": "stat.playOneMinute",
+		"count": 1200,
+		"xPos": 0,
+		"yPos": 1
+	},
+	{
+		"id": "gettingStarted",
+		"name": "Getting Started",
+		"desc": "Play for 10 minutes.",
+		"parent": "welcometo",
+		"stat": "stat.playOneMinute",
+		"count": 12000,
+		"xPos": 1,
+		"yPos": 1
+	},
+	{
+		"id": "youmadeit",
+		"name": "You Made It",
+		"desc": "Play for a full game day.",
+		"parent": "gettingStarted",
+		"stat": "stat.playOneMinute",
+		"count": 24000,
+		"xPos": 2,
+		"yPos": 1
+	},
+	{
+		"id": "addict",
+		"name": "Addict",
+		"desc": "Play for 1 hour.",
+		"parent": "youmadeit",
+		"stat": "stat.playOneMinute",
+		"count": 72000,
+		"xPos": 3,
+		"yPos": 1
+	},
+	{
+		"id": "veteran",
+		"name": "Veteran",
+		"desc": "Play for 24 hours.",
+		"parent": "addict",
+		"stat": "stat.playOneMinute",
+		"count": 1728000,
+		"xPos": 4,
+		"yPos": 1
+	},
+	{
+		"id": "pro",
+		"name": "Pro",
+		"desc": "Play for a month",
+		"parent": "veteran",
+		"color": "dark_red",
+		"special": true,		
+		"stat": "stat.playOneMinute",
+		"count": 518400000,
+		"item": 
+		{
+			"id": "minecraft:wool",
+			"meta": "4"
+		},		
+		"xPos": 5,
+		"yPos": 1
 	}	
 ]
