@@ -1,15 +1,63 @@
 [
 	{
-		"id": "mineDiamond",
-		"name": "Shine On You Crazy Diamond",
-		"desc": "Mine a stack of diamonds.",
-		"stat": "stat.mineBlock.27",
-		"count": 64,
-		"item": "minecraft:diamond_ore",
+		"id": "mineRedstone",
+		"name": "Red is the New Black",
+		"desc": "Mine 128 Redstone Ore.",
+		"color": "dark_red",
+		"stat": "stat.mineBlock.73",
+		"count": 128,
+		"item": "minecraft:redstone_ore",
 		"xPos": 0,
 		"yPos": -1
 	},
-	
+	{
+		"id": "mineDiamond",
+		"name": "Shine Bright Like A Diamond",
+		"desc": "Mine 64 diamond Ore.",
+		"color": "aqua",
+		"parent": "mineLapis",
+		"stat": "stat.mineBlock.56",
+		"count": 64,
+		"item": "minecraft:diamond_ore",
+		"xPos": 2,
+		"yPos": -1
+	},
+	{
+		"id": "mineEmerald",
+		"name": "Green is Rollin Now!",
+		"desc": "Mine 64 emerald Ore",
+		"color": "green",
+		"parent": "mineDiamond",
+		"stat": "stat.mineBlock.129",
+		"count": 64,
+		"item": "minecraft:emerald_ore",
+		"xPos": 3,
+		"yPos": -1
+	},
+	{
+		"id": "mineLapis",
+		"name": "Like My Blue Suede Shoes",
+		"desc": "Mine 64 Lapis Ore.",
+		"color": "blue",
+		"parent": "mineRedstone",
+		"stat": "stat.mineBlock.21",
+		"count": 64,
+		"item": "minecraft:lapis_ore",
+		"xPos": 1,
+		"yPos": -1
+	},
+	{
+		"id": "mineGlowstone",
+		"name": "As the light shines bright.",
+		"desc": "Mine 64 Glowstone",
+		"color": "gold",
+		"parent": "mineEmerald",
+		"stat": "stat.mineBlock.89",
+		"count": 64,
+		"item": "minecraft:glowstone",
+		"xPos": 4,
+		"yPos": -1
+	},		
 	{
 		"id": "welcometo",
 		"name": "Welcome Home",
@@ -68,12 +116,55 @@
 		"special": true,		
 		"stat": "stat.playOneMinute",
 		"count": 518400000,
-		"item": 
-		{
-			"id": "minecraft:wool",
-			"meta": "4"
-		},		
 		"xPos": 5,
 		"yPos": 1
-	}	
-]
+	},
+	{
+		"id": "oneup",
+		"name": "OneUP",
+		"desc": "I'm not afraid of death; I just don't want to be there when it happens.",
+		"color": "red",
+		"stat": "stat.deaths",
+		"count": 1,
+        "item": "minecraft:skull",
+		"xPos": -2,
+		"yPos": -1
+	},
+	{
+		"id": "10up",
+		"name": "Oh The Humanity",
+		"desc": "I don't want to die without any scars.",
+		"color": "red",
+		"stat": "stat.deaths",
+		"count": 10,
+		"parent": "oneup",		
+        "item": "minecraft:skull",
+		"xPos": -4,
+		"yPos": -1
+	},	
+	{
+		"id": "50up",
+		"name": "Just Make It Stop",
+		"desc": "The last enemy that shall be destroyed is death.",
+		"color": "red",
+		"stat": "stat.deaths",
+		"count": 50,
+		"parent": "10up",		
+        "item": "minecraft:skull",
+		"xPos": -4,
+		"yPos": -3
+	},
+	{
+		"id": "100up",
+		"name": "I Give Up",
+		"desc": "Sleep those little slices of death how I loathe them.",
+		"color": "red",
+		"special": true,		
+		"stat": "stat.deaths",
+		"count": 100,
+		"parent": "50up",		
+        "item": "minecraft:skull",
+		"xPos": -2,
+		"yPos": -3
+	}
+]	
