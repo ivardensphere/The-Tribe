@@ -27,9 +27,7 @@
   * Metallurgy Chisel 
 3. DecoCraft
 4. LightsPlus
-5. MalisisDoors
-6. SecretRoomsMod
-7. ZTones
+5. ZTones
 
 #####Transportation Mods:
 ------------------
@@ -93,7 +91,6 @@
 8. Special Mobs
 9. Mo Creatures
   * JAS
-10. Mowzies Mobs
 
 #####Info Mods:
 ------------------
