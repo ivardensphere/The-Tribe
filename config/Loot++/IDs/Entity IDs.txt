@@ -658,17 +658,6 @@ ironbackpacks.EntityBackpack
 lootablebodies_EntityLootableBody
 lootplusplus.Label
 lootplusplus.ThrownItem
-mountableBlock
-mowziesmobs.BabyFoliaath
-mowziesmobs.FerrousWroughtnaut
-mowziesmobs.Foliaath
-mowziesmobs.SolarBeam
-mowziesmobs.Sunstrike
-mowziesmobs.TribeLeader
-mowziesmobs.TribesmanElite
-mowziesmobs.TribesmanHunter
-mowziesmobs.TribesmanVillager
-mowziesmobs.dart
 rangeEntity
 soundEntity
 witchery.attackbat
@@ -728,10 +717,10 @@ witchery.witchhunter
 witchery.wolfman
 witherSkeleton
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
-23 - witherSkeleton
-24 - Blizz
-25 - Blitz
-26 - Basalz
+7 - witherSkeleton
+23 - Blizz
+24 - Blitz
+25 - Basalz
 50 - Creeper
 51 - Skeleton
 52 - Spider

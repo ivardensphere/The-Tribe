@@ -1846,10 +1846,6 @@ cactusRod
 TConstruct:toolRod - 4
 
 
-camoPaste
-secretroomsmod:CamoflaugePaste - 0
-
-
 carpet
 chisel:carpet - 0
 

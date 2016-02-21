@@ -464,56 +464,56 @@
 
 
 77
-	- Name: potion.sunsBlessing
-	- Color: 16768834
-	- Is Instant? false
-
-
-78
 	- Name: potion.fluxtaint
 	- Color: 6697847
 	- Is Instant? false
 
 
-79
+78
 	- Name: potion.visexhaust
 	- Color: 6702199
 	- Is Instant? false
 
 
-80
+79
 	- Name: potion.infvisexhaust
 	- Color: 6706551
 	- Is Instant? false
 
 
-81
+80
 	- Name: potion.unhunger
 	- Color: 4482611
 	- Is Instant? false
 
 
-82
+81
 	- Name: potion.warpward
 	- Color: 14742263
 	- Is Instant? false
 
 
-83
+82
 	- Name: potion.deathgaze
 	- Color: 6702131
 	- Is Instant? false
 
 
-84
+83
 	- Name: potion.blurred
 	- Color: 8421504
 	- Is Instant? false
 
 
-85
+84
 	- Name: potion.sunscorned
 	- Color: 16308330
+	- Is Instant? false
+
+
+85
+	- Name: potion.thaumarhia
+	- Color: 6702199
 	- Is Instant? false
 
 
@@ -526,12 +526,6 @@
 87
 	- Name: Wated Imbued
 	- Color: 0
-	- Is Instant? false
-
-
-88
-	- Name: potion.thaumarhia
-	- Color: 6702199
 	- Is Instant? false
 
 
