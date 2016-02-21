@@ -3098,9 +3098,15 @@ StevesCarts:upgrade - 2730
 StorageDrawers:compDrawers - 2738
 StorageDrawers:controller - 2739
 StorageDrawers:controllerSlave - 2740
+StorageDrawers:framingTable - 3360
+StorageDrawers:fullCustom1 - 3364
+StorageDrawers:fullCustom2 - 3363
+StorageDrawers:fullCustom4 - 3359
 StorageDrawers:fullDrawers1 - 2733
 StorageDrawers:fullDrawers2 - 2734
 StorageDrawers:fullDrawers4 - 2735
+StorageDrawers:halfCustom2 - 3362
+StorageDrawers:halfCustom4 - 3361
 StorageDrawers:halfDrawers2 - 2736
 StorageDrawers:halfDrawers4 - 2737
 StorageDrawers:personalKey - 7247
