@@ -302,8 +302,8 @@
 	- Forge Biome Types: SPARSE WET LUSH OCEAN RIVER SWAMP 
 
 74
-	- Name: Meadow
-	- Forge Biome Types: LUSH FOREST PLAINS 
+	- Name: Mining Biome
+	- Forge Biome Types: LUSH FOREST PLAINS MOUNTAIN 
 
 75
 	- Name: Moor

@@ -57,6 +57,14 @@
 	- Terrain Scale: 1.0
 
 
+-34
+	- Name: Dungeon
+	- Height: 128
+	- Has Sky? false
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
 -37
 	- Name: Spirit World
 	- Height: 256
@@ -118,6 +126,14 @@
 	- Height: 256
 	- Has Sky? true
 	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+6
+	- Name: Mining World
+	- Height: 256
+	- Has Sky? true
+	- Can Respawn Here? false
 	- Terrain Scale: 1.0
 
 

@@ -1014,6 +1014,10 @@ BiomesOPlenty:gemOre - 3
 ProjRed|Exploration:projectred.exploration.stone - 5
 
 
+blockRunicSteel
+runicdungeons:tile.runicSteelBlock - 0
+
+
 blockSalt
 Mekanism:SaltBlock - 0
 
@@ -1571,6 +1575,10 @@ brickSphalerite
 
 brickSteel
 Metallurgy:base.brick - 7
+
+
+brickStone
+Aroma1997sDimension:portalFrame - 0
 
 
 brickTartarite
@@ -3041,6 +3049,9 @@ clusterRubracium
 clusterRuby
 
 
+clusterRunicSteel
+
+
 clusterRutile
 
 
@@ -3319,6 +3330,10 @@ ExtraUtilities:cobblestone_compressed - 12
 
 compressedGravel2x
 ExtraUtilities:cobblestone_compressed - 13
+
+
+compressedObsidian
+runicdungeons:tile.compressedObsidian - 0
 
 
 compressedSand1x
@@ -5877,6 +5892,9 @@ Metallurgy:fantasy.dust - 8
 
 
 dustRuby
+
+
+dustRunicSteel
 
 
 dustRutile
@@ -8947,6 +8965,7 @@ minecraft:glass - 0
 Natura:NetherGlass - 0
 Natura:NetherGlass - 1
 EnderIO:blockFusedQuartz - 1
+runicdungeons:tile.runicGlass - 0
 
 
 glassBlack
@@ -10329,6 +10348,10 @@ Metallurgy:rubracium.ingot - 0
 
 
 ingotRuby
+
+
+ingotRunicSteel
+runicdungeons:item.runicSteel - 0
 
 
 ingotRutile
@@ -13602,6 +13625,9 @@ BiomesOPlenty:gemOre - 2
 ProjRed|Exploration:projectred.exploration.ore - 0
 
 
+oreRunicSteel
+
+
 oreRutile
 
 
@@ -15733,6 +15759,13 @@ ExtraUtilities:color_stone - 11
 
 
 stoneZinc
+
+
+stonebrick
+runicdungeons:tile.survivalRunicBrick - 0
+runicdungeons:tile.survivalRunicBrick - 1
+runicdungeons:tile.survivalRunicBrick - 2
+runicdungeons:tile.survivalRunicBrick - 3
 
 
 stonenull

@@ -106,6 +106,7 @@ Forestry.cart.apiary
 Forestry.cart.beehouse
 Ghast
 Giant
+Guardian
 HardcoreEnderExpansion.AngryEnderman
 HardcoreEnderExpansion.BabyEnderman
 HardcoreEnderExpansion.BlockHomelandCache
@@ -716,9 +717,10 @@ witchery.wingedmonkey
 witchery.witchhunter
 witchery.wolfman
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
-7 - Blizz
-23 - Blitz
-24 - Basalz
+7 - Guardian
+23 - Blizz
+24 - Blitz
+25 - Basalz
 50 - Creeper
 51 - Skeleton
 52 - Spider
