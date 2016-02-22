@@ -715,12 +715,10 @@ witchery.werevillager
 witchery.wingedmonkey
 witchery.witchhunter
 witchery.wolfman
-witherSkeleton
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
-7 - witherSkeleton
-23 - Blizz
-24 - Blitz
-25 - Basalz
+7 - Blizz
+23 - Blitz
+24 - Basalz
 50 - Creeper
 51 - Skeleton
 52 - Spider
