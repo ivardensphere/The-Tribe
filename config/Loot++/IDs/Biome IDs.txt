@@ -302,8 +302,8 @@
 	- Forge Biome Types: SPARSE WET LUSH OCEAN RIVER SWAMP 
 
 74
-	- Name: Mining Biome
-	- Forge Biome Types: LUSH FOREST PLAINS MOUNTAIN 
+	- Name: Meadow
+	- Forge Biome Types: LUSH FOREST PLAINS 
 
 75
 	- Name: Moor
@@ -684,6 +684,10 @@
 187
 	- Name: WitchwoodForest
 	- Forge Biome Types: MAGICAL FOREST 
+
+189
+	- Name: Mining Biome
+	- Forge Biome Types: MOUNTAIN 
 
 192
 	- Name: Tainted Land
