@@ -2,5 +2,42 @@
   "_name": "SpecialMobs.SpecialZombie",
   "drops": [],
   "pre_stats": [],
-  "stats": []
+  "stats": [
+    {
+      "_comment": "if this mob is farther away than 500 blocks from spawn...",
+      "function": "if_beyond_500",
+      "functions": [
+        {
+          "function": "modifier",
+          "attribute": "generic.attackDamage",
+          "value": 2,
+          "operator": 2
+        }
+      ]
+    },
+    {
+      "_comment": "if this mob is farther away than 750 blocks from spawn...",
+      "function": "if_beyond_750",
+      "functions": [
+        {
+          "function": "modifier",
+          "attribute": "generic.attackDamage",
+          "value": 3,
+          "operator": 2
+        }
+      ]
+    },
+    {
+      "_comment": "if this mob is farther away than 1000 blocks from spawn...",
+      "function": "if_beyond_1000",
+      "functions": [
+        {
+          "function": "modifier",
+          "attribute": "generic.attackDamage",
+          "value": 4,
+          "operator": 2
+        }
+      ]
+    }
+   ]
 }
