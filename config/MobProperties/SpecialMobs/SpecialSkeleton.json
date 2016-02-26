@@ -1,19 +1,31 @@
 {
-  "_name": "SpecialMobs.SpecialSkeleton",
-  "drops": [
-    {
-      "function": "if_in_dimension_-1",
-      "functions": [
-        {
-          "_comment": "add skull drop",
-          "function": "add",
-          "id": "skull",
-		  "damage": "1",
-          "count": 0.2
-        }
-      ]
-    }
-  ],
-  "pre_stats": [],
-  "stats": []
+ "_name": "SpecialMobs.SpecialSkeleton",
+ "drops": [
+  { 
+   "function": "if_in_dimension_-1",
+   "functions": [
+   {
+    "_comment": "add skull drop",
+    "function": "add",
+    "id": "skull",
+	"damage": 1,
+    "count": 0.2
+   }
+   ]
+  },
+  { 
+   "function": "if_in_dimension_-1",
+   "functions": [
+   {
+    "_comment": "add Necrobone drop",
+    "function": "add",
+    "id": 5655,
+	"damage": 8,
+    "count": 0.4
+   }
+   ]
+  }
+ ],
+ "pre_stats": [],
+ "stats": []
 }
