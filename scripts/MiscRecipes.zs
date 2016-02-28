@@ -106,3 +106,6 @@ recipes.addShaped(<EnderIO:blockEndermanSkull>, [
 	[<minecraft:ender_pearl>, <minecraft:skull>, <minecraft:ender_pearl>], 
 	[<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>]
 	]);
+
+# Digital Miner
+recipes.removeShaped(<Mekanism:MachineBlock:4>);	
