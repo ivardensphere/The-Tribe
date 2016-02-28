@@ -1,6 +1,13 @@
 {
   "_name": "Thaumcraft.BrainyZombie",
-  "drops": [],
+  "drops": [
+    {
+		"function":"add",
+		"id": "witchery:ingredient",
+		"damage": 66,
+		"count": 0.001 
+	} 
+  ],
   "pre_stats": [],
   "stats": []
 }

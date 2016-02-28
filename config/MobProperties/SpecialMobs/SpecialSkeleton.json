@@ -22,9 +22,16 @@
     "id": 5655,
 	"damage": 8,
     "count": 0.4
-   }
+   },
+   {
+    "function":"add",
+    "id": "witchery:ingredient",
+    "damage": 66,
+    "count": 0.001 
+   } 
    ]
-  }
+  },
+
  ],
  "pre_stats": [],
  "stats": [
