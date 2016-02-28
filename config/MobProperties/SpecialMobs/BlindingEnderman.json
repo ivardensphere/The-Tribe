@@ -1,6 +1,12 @@
 {
   "_name": "SpecialMobs.BlindingEnderman",
-  "drops": [],
+  "drops": [
+    {
+		"function":"add",
+		"id": "EnderIO:blockEndermanSkull",
+		"count": 0.02 
+	} 
+  ],
   "pre_stats": [],
   "stats": []
 }
