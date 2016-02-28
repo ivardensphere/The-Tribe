@@ -1,6 +1,13 @@
 {
   "_name": "SpecialMobs.DeathCreeper",
-  "drops": [],
+  "drops": [
+    {
+		"function":"add",
+		"id": "witchery:ingredient",
+		"damage": 74,
+		"count": 0.02 
+	} 
+  ],
   "pre_stats": [],
   "stats": []
 }

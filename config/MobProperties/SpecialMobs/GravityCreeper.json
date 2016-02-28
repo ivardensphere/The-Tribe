@@ -1,6 +1,13 @@
 {
   "_name": "SpecialMobs.GravityCreeper",
-  "drops": [],
+  "drops": [
+    {
+		"function":"add",
+		"id": "witchery:ingredient",
+		"damage": 74,
+		"count": 0.01 
+	} 
+  ],
   "pre_stats": [],
   "stats": []
 }
