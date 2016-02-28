@@ -1,3 +1,6 @@
+var Wheat = <ore:cropWheat>;
+var WispyCotton = <witchery:somniancotton>;
+
 //
 // Adding recipe for necrotic bone
 //
@@ -109,3 +112,6 @@ recipes.addShaped(<EnderIO:blockEndermanSkull>, [
 
 # Digital Miner
 recipes.removeShaped(<Mekanism:MachineBlock:4>);	
+
+#Wormwood Seeds
+recipes.addShaped(<witchery:seedswormwood>, [[null, Wheat, null], [Wheat, WispyCotton, Wheat], [null, Wheat, null]]);
