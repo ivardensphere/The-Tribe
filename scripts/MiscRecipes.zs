@@ -100,3 +100,9 @@ mods.chisel.Groups.addVariation("granite", <Botania:stone:11>);
 # EnderIO Redstone Alloy <=> ProjectRed Red Alloy Ingot
 <ore:ingotRedAlloy>.add( <EnderIO:itemAlloy:3> );
 
+# Craftable Enderman Head
+recipes.addShaped(<EnderIO:blockEndermanSkull>, [
+	[<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>], 
+	[<minecraft:ender_pearl>, <minecraft:skull>, <minecraft:ender_pearl>], 
+	[<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>]
+	]);
