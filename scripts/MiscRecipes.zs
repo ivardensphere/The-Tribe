@@ -93,3 +93,10 @@ mods.chisel.Groups.addVariation("diorite", <Botania:stone:10>);
 mods.chisel.Groups.addVariation("granite", <Botania:stone:3>);
 mods.chisel.Groups.addVariation("granite", <Botania:stone:7>);
 mods.chisel.Groups.addVariation("granite", <Botania:stone:11>);
+
+# EnderIO Silicon <=> ProjectRed Silicon
+<ore:itemSilicon>.add( <ProjRed|Core:projectred.core.part:12> );
+
+# EnderIO Redstone Alloy <=> ProjectRed Red Alloy Ingot
+<ore:ingotRedAlloy>.add( <EnderIO:itemAlloy:3> );
+
